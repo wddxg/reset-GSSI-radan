@@ -8,5 +8,4 @@ rd /s /q "%Appdata%\Radan7"
 rd /s /q C:\Windows\assembly\GAC\SKCLNET
 del /f C:\Windows\SysWOW64\XFYALIJU.ocx
 
-
 pause
